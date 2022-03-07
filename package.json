@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TiagOliveiraTI/clean-arch-typescript/issues"
   },
-  "homepage": "https://github.com/TiagOliveiraTI/clean-arch-typescript#readme"
+  "homepage": "https://github.com/TiagOliveiraTI/clean-arch-typescript#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
