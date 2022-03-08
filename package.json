@@ -7,7 +7,7 @@
     "eslint:fix": "npx eslint src/* --fix",
     "prepare": "husky install",
     "test": "mocha -r ts-node/register src/**/*.spec.ts",
-    "test:watch": "mocha -r ts-node/register --watch --watch-files src/**/*.spec.ts"
+    "test:watch": "mocha -r ts-node/register --watch --watch-files src/**/*.ts src/**/*.spec.ts"
   },
   "repository": {
     "type": "git",
